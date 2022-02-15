@@ -23,6 +23,7 @@ public class bookController {
     public resultsChange getAll()  {
         System.out.println("getall");
         System.out.println("getall2");
+        System.out.println("getall3");
         return new resultsChange(true,bookService.list());
     }
     @PostMapping
