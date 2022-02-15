@@ -25,6 +25,7 @@ public class bookController {
         System.out.println("getall2");
         System.out.println("getall3");
         System.out.println("master test");
+        System.out.println("push test");
         return new resultsChange(true,bookService.list());
     }
     @PostMapping
