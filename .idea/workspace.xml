@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7287f18-6a20-4701-935c-0310449ba325" name="Changes" comment="first commit">
+    <list default="true" id="b7287f18-6a20-4701-935c-0310449ba325" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/akron/controller/bookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akron/controller/bookController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <updated>1644825491255</updated>
       <workItem from="1644825492726" duration="566000" />
       <workItem from="1644826124535" duration="14000" />
-      <workItem from="1644930733122" duration="1622000" />
+      <workItem from="1644930733122" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1644932275057</created>
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644932275057</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1644932683223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644932683223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
