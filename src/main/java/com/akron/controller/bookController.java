@@ -21,6 +21,7 @@ public class bookController {
 
     @GetMapping
     public resultsChange getAll()  {
+        System.out.println("getall");
         return new resultsChange(true,bookService.list());
     }
     @PostMapping
